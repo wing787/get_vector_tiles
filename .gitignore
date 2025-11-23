@@ -55,3 +55,9 @@ docker-compose.override.yml
 *.pid
 *.seed
 *.backup
+
+# Data files（リポジトリ以下のdataフォルダすべて）
+data/
+output/
+source_data/
+input_data/
